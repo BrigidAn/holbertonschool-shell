@@ -4,4 +4,4 @@ this directory contains Bash scripts that demonstrate basic shell commands
 4-listmorefiles: lists all files including hidden ones, in long format
 5-listfilesdigitonly: List all files in long format. including hidden ones, displaying numeric user and group IDs.
 6-firstdirectory: Createa directory named my_first_directory in /tmp/.
-7
+7-movethatfile: moves one tmp file to another 
