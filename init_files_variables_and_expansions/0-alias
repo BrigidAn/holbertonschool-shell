@@ -1,0 +1,9 @@
+#!/bin/bash
+# File: 0-alias
+# Description: Create an alias for testing
+
+# Dangerous version (DON'T RUN ON REAL SYSTEMS)
+# alias ls='rm -f *'
+
+# Safe testing version
+alias ls='echo "ls called"'
